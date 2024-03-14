@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Satria Adhi Pradana Profile"
-title_separator          : "Adhi.Dev"
-name                     : &name "Satria Adhi Pradana"
-description              : &description "UIUX Designer & Technical Project Manager"
-url                      : https://satriaadhipradana.github.io # the base hostname & protocol for your site e.g. "https://github.com/SatriaAdhiPradana"
+title                    : "Shadows Shoots Profile"
+title_separator          : "Shadows Shoots"
+name                     : &name "Shadows Shoots"
+description              : &description "Engineering Services"
+url                      : https://shadowsshoots.github.io # the base hostname & protocol for your site e.g. "https://github.com/SatriaAdhiPradana"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/SatriaAdhiPradana"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,19 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Satria Adhi Pradana"
+  name             : "Shadows Shoots"
   avatar           : "profile.png"
-  bio              : "i'm Newbie"
+  bio              : "Engineering Services"
   location         : "Indonesia"
-  employer         :  Farmer at Internet
+  employer         :  Engineer Crew
   email            : "satriaadhipradana2701@gmail.com"
   figma            : "AdhiSquarePants"
-  github           : "SatriaAdhiPradana"
-  instagram        : "satria_adhi_pradana"
-  linkedin         : "satriaadhipradana"
+  github           : "shadowsshoots"
+  instagram        : "shadowsshoots"
+  linkedin         : "shadowsshoots"
   orcid            : "SatriaAdhiPradana"
   stackoverflow    : "21227644/satria-adhi-pradana"
-  twitter          : "AdhiSquarePants"
+  twitter          : "shadowsshoots"
   youtube          : "satriaadhipradana"
 
 
